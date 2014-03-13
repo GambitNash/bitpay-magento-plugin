@@ -4,7 +4,7 @@
 		<payment>
 			<groups>
 				<Bitcoins translate="label" module="paygate">
-					<label>Bitcoins</label>
+					<label>Bitcoins via BitPay</label>
 					<sort_order>670</sort_order>
 					<show_in_default>1</show_in_default>
 					<show_in_website>1</show_in_website>

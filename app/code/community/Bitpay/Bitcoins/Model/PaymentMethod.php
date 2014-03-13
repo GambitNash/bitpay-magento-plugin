@@ -28,7 +28,7 @@ class Bitpay_Bitcoins_Model_PaymentMethod extends Mage_Payment_Model_Method_Abst
    *
    * @var string [a-z0-9_]
    */
-  protected $_code = 'Bitcoins';
+  protected $_code = 'BitPay';
  
   /**
    * Here are examples of flags that will determine functionality availability
